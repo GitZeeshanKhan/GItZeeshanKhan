@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, World. This is Zeeshan Khan</h1>
-<h3 align="center">A cybersecurity professional specializing in penetration testing and red teaming strategies.</h3>
+<h1 align="center">Hello Like-minded People 👋</h1>
+This is Zeeshan Khan. I believe that a good offense is the best defense in cybersecurity. My passion lies in security research, specializing in hands-on offensive and web security penetration testing. I actively engage in bug bounty programs, CTF Challenges, and continuously explore advanced blue teaming strategies to enhance cybersecurity defenses. My goal is to contribute to a safer digital landscape by leveraging proactive approaches and innovative solutions.
 
 
 ### Programming Language
@@ -8,14 +8,17 @@
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/@freecodecamp)
 [![Python Badge](https://img.shields.io/badge/Python-%23FF0000.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-
-
 ### Scripting Language
 [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://youtu.be/qnXe1gecux8)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://linuxjourney.com/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://www.youtube.com/playlist?list=PL2j0_s2VJe2hzQuQyn6yfMS2olhhs4UnQ)
 [![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-%23ff9800.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
+### Tools
+[![Wireshark Badge](https://img.shields.io/badge/Wireshark-%2368B0E3.svg?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Burp Suite Badge](https://img.shields.io/badge/Burp_Suite-%23FF6347.svg?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
+[![SQLMap Badge](https://img.shields.io/badge/SQLMap-%23FFFF99.svg?style=for-the-badge&logo=sqlmap&logoColor=white)](http://sqlmap.org/)
+[![Nmap Badge](https://img.shields.io/badge/Nmap-%23009999.svg?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
 
 ### Licenses & certifications
 [![Google Badge](https://img.shields.io/badge/Google-%230A0A0A.svg?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/)
