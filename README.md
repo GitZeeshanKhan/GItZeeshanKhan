@@ -42,10 +42,10 @@ This is Zeeshan Khan. I believe that a good offense is the best defense in cyber
 ### Ping me at :)
 <div align=left>
   
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/intent/user?screen_name=PakCyberbot)](https://twitter.com/intent/user?screen_name=PakCyberbot) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/PakCyberbot/)](https://www.linkedin.com/in/PakCyberbot/) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&labelColor=000000&logo=Medium&link=https://PakCyberbot.medium.com/)](https://PakCyberbot.medium.com/)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-c14438?style=for-the-badge&logo=YouTube&logoColor=white&link=https://youtube.com/@PakCyberbot)](https://youtube.com/@PakCyberbot)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/pakcyberbot/)](https://www.instagram.com/pakcyberbot/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/thezeekhan?t=L2rvhqftiILsgen5roqJjw&s=08)](https://x.com/thezeekhan?t=L2rvhqftiILsgen5roqJjw&s=08) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thezeeshan-khan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/thezeeshan-khan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@thezeeshankhan)](https://medium.com/@thezeeshankhan/)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-c14438?style=for-the-badge&logo=YouTube&logoColor=white&link=https://youtube.com/@speakerzeeshan?si=-o5counxGMOJHjN0)](https://youtube.com/@speakerzeeshan?si=-o5counxGMOJHjN0)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/thezeekhan?igsh=MW1wNnFxcGpkMzdsMg==)](https://www.instagram.com/thezeekhan?igsh=MW1wNnFxcGpkMzdsMg==)
 
 </div>
